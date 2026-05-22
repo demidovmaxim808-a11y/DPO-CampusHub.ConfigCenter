@@ -1,2 +1,3 @@
-dotnet build
-dotnet run --launch-profile "CampusHub.ConfigCenter"
+# Запуск
+- otnet build
+- dotnet run --launch-profile "CampusHub.ConfigCenter"
