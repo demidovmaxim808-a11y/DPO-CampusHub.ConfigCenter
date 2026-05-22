@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <Portal>
+    <CampusName>Main Downtown Campus</CampusName>
+    <Dean>Prof. Emily Clark</Dean>
+    <Building>Technology Hall</Building>
+  </Portal>
+</configuration>

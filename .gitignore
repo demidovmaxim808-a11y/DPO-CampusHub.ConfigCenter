@@ -1,0 +1,51 @@
+# .NET build output
+bin/
+obj/
+Debug/
+Release/
+*.user
+*.suo
+*.userosscache
+*.usersecrets
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.swp
+*.tmp
+
+# Rider
+.idea/
+*.sln.iml
+
+# Publish output
+publish/
+*.pubxml
+
+# User-specific
+launchSettings.json
+*.log
+*.db
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+packages/
+*.nupkg
+
+# Environment
+.env
+*.local.xml
+*.local.json
+*.development.json
